@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "BE-Klein-Ternaaien-lock",
-        "Version": "v20191122"
+        "Version": "20191122"
       },
       "geometry": {
         "type": "Polygon",
