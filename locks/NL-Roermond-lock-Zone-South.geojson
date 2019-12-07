@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "",
-		"Identification": : "NL-Roermond-lock-Zone-South",
+	"Identification": "NL-Roermond-lock-Zone-South",
         "Version": "20191207"
       },
       "geometry": {
