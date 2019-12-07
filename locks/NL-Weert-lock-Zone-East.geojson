@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Weert-lock-Zone-East"
+        "Name": "",
+        "Identification": "NL-Weert-lock-Zone-East",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

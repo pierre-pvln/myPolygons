@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Roermond-lock-Lock",
-        "Version": 20191203
+        "Name": "Sluis Roermond",
+		"Identification": "NL-Roermond-lock-Lock",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

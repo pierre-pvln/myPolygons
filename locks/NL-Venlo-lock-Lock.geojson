@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Venlo-lock"
+        "Name": "Sluis Belfeld",
+		"Identification": "NL-Venlo-lock-Lock",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

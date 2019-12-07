@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+		"Name": "",
+        "Identification": "NL-Born-lock-Zone-South",
+        "Version": "20191207"	  
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

@@ -4,7 +4,9 @@
       {  
       "type": "Feature",
       "properties": {
-        "Name": "NL-Venlo-lock-Zone-South"
+        "Name": "",
+		"Identification": "NL-Venlo-lock-Zone-South",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

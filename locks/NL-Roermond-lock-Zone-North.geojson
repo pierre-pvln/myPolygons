@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Roermond-lock-Zone-North",
-        "Version": 20191203
+        "Name": "",
+		"Identification":  "NL-Roermond-lock-Zone-North",
+        "Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

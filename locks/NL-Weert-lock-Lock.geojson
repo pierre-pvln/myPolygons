@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Weert-lock"
+	    "Name": "Sluis 16",
+        "Identification": "NL-Weert-lock-Lock",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

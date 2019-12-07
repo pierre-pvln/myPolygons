@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Maastricht-lock-Zone-North"
+		"Name": "",
+		"Identification": "NL-Maastricht-lock-Julianakanaal-Zone-North",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",

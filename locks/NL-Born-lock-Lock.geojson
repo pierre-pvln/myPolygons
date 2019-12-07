@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+		"Name": "sluis Born",
+        "Identification": "NL-Born-lock-Lock",
+        "Version": "20191207"	  
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

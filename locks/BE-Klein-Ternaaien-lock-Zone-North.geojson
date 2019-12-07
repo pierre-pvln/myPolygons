@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "BE-Klein-Ternaaien-lock-Zone-North",
-		"Version": "20191122"
+		"Name": "",
+        "Identification": "BE-Klein-Ternaaien-lock-Zone-North",
+		"Version": "20191207"
       },
       "geometry": {
         "type": "Polygon",
