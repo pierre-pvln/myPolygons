@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "BE-Klein-Ternaaien-lock-Zone-South"
+        "Name": "BE-Klein-Ternaaien-lock-Zone-South",
+        "Version": "20191122"
       },
       "geometry": {
         "type": "Polygon",
