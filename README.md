@@ -1,22 +1,24 @@
-All in formation is as-is and without any guarantee.
-====================================================
+# All in formation is as-is and without any guarantee!
 
-Name convention:
-Official name as used by authorities
+### Filename
+Filename should be the same as the identification: _CC-Location-Type-Typename.geojson_
 
-Identification convention: 
-CC-Location-Type-Typename.geojson
+### Name:
+Official name as used by authorities.
+
+### Identification: 
+_CC-Location-Type-Typename_
 
 CC			= Country name based on ISO 3166 alpha 2 naming convention
 
 Location	= Municipality or place name 
 
 Type		= lock, port, contour
-				lock	: lock related info
-				port	: port related info
-				contour	: a contour of a zone		
+* lock : lock related info
+* port : port related info
+* contour : a contour of a zone		
 
-Version convention:
+### Version:
 YYYYMMDD
 
 Name, identification and version should also be present in properties section of geojson file
