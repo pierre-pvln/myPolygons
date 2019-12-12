@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluis Bosscherveld",
+		"Identification": "NL-Maastricht-lock-Lock",
+		"Version": "20191212"	  
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.6866371631622314,
+              50.86773150594946
+            ],
+            [
+              5.686454772949219,
+              50.8675453001778
+            ],
+            [
+              5.688487887382507,
+              50.86682755460827
+            ],
+            [
+              5.688621997833251,
+              50.86698667840018
+            ],
+            [
+              5.6866371631622314,
+              50.86773150594946
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
