@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluis Maastricht",
+		"Identification": "NL-Maastricht-lock-Bassin",
+		"Version": "20191212"	  
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.694388747215271,
+              50.85617518240757
+            ],
+            [
+              5.693079829216003,
+              50.85585008764853
+            ],
+            [
+              5.693187117576599,
+              50.85570447155283
+            ],
+            [
+              5.694453120231628,
+              50.85607020413937
+            ],
+            [
+              5.694388747215271,
+              50.85617518240757
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
