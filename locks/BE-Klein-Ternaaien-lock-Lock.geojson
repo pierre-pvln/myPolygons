@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-	  	"Name": "sluis Ternaaien",
+	  	"Name": "Sluis Ternaaien",
         "Identification": "BE-Klein-Ternaaien-lock-Lock",
-        "Version": "20191207"
+        "Version": "20191212"
       },
       "geometry": {
         "type": "Polygon",
