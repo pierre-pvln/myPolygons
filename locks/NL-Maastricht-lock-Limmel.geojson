@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sluis Julianakanaal Maastricht",
-		"Identification": "NL-Maastricht-lock-Julianakanaal",
-		"Version": "20191207"
+        "Name": "Keersluis Limmel",
+		"Identification": "NL-Maastricht-lock-Limmel",
+		"Version": "20191212"
       },
       "geometry": {
         "type": "Polygon",
