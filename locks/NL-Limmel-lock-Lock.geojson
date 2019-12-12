@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Keersluis Limmel",
+		"Identification": "NL-Limmel-lock-Lock"
+		"Version": "20191212"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.701180100440978,
+              50.87556840165935
+            ],
+            [
+              5.700745582580566,
+              50.87421100349497
+            ],
+            [
+              5.701587796211243,
+              50.87408237019672
+            ],
+            [
+              5.702086687088013,
+              50.87544315710033
+            ],
+            [
+              5.701180100440978,
+              50.87556840165935
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
