@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-		"Name": "sluis Born",
+		"Name": "Sluis Born",
         "Identification": "NL-Born-lock-Lock",
-        "Version": "20191207"	  
+        "Version": "20191212"	  
 	  },
       "geometry": {
         "type": "Polygon",
