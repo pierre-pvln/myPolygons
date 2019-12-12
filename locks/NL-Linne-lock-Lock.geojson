@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-	    "Name": "Sluis Linne East",
-		"Identification": "NL-Linne-lock-East",
+	    "Name": "Sluis Linne",
+		"Identification": "NL-Linne-lock-Lock",
 		"Version": "20191212"	  
 	  },
       "geometry": {

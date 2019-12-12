@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
 	    "Name": "",
-		"Identification": "NL-Linne-lock-East-Zone-North",
+		"Identification": "NL-Linne-lock-Zone-North",
 		"Version": "20191212"		  
 	  },
       "geometry": {
