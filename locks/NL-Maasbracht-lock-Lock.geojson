@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+				"Name": "Sluis Maasbracht",
+				"Identification": "NL-Maasbracht-lock-Lock",
+				"Version": "20191212"
+			},
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.877776741981506,
+                            51.14266973682131
+                        ],
+                        [
+                            5.876575112342834,
+                            51.141318450199954
+                        ],
+                        [
+                            5.877803564071655,
+                            51.14081696639652
+                        ],
+                        [
+                            5.879085659980774,
+                            51.142185095608504
+                        ],
+                        [
+                            5.877776741981506,
+                            51.14266973682131
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
