@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	    "Name": "Kade Euregio Born",
+		"Identification": "NL-Born-quay-Euregio",
+		"Version": "20191223" 
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.811445713043212,
+              51.05698093406891
+            ],
+            [
+              5.811831951141357,
+              51.056859549471355
+            ],
+            [
+              5.813999176025391,
+              51.06059535182122
+            ],
+            [
+              5.813688039779663,
+              51.060696497513135
+            ],
+            [
+              5.811445713043212,
+              51.05698093406891
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
