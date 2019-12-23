@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-         "Name": "NL-Bunde-port"
+        "Name": "Haven Bunde",
+		"Identification": "NL-Bunde-port",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",

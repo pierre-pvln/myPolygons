@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Name": "Industriehaven Venlo",
+		"Identification": "NL-Venlo-port-Industriehaven",
+		"Version": "20191223" 
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

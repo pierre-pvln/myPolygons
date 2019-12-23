@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Stein-port"
+	    "Name": "Haven Stein",
+		"Identification": "NL-Stein-port",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",

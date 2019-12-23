@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+	    "Name": "Naam niet bekend Maasbracht",
+		"Identification": "NL-Maasbracht-port-unknown002",
+		"Version": "20191223" 
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

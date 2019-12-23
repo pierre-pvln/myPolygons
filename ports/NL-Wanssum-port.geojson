@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Wanssum-port"
+        "Name": "Haven Wanssum",
+		"Identification": "NL-Wanssum-port",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",

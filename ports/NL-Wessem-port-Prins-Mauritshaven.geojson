@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+	    "Name": "Prins Mauritshaven Wessem",
+		"Identification": "NL-Wessem-port-Prins-Maurits",
+		"Version": "20191223" 	  
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

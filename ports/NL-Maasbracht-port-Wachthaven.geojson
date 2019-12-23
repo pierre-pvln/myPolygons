@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+	    "Name": "Wachthaven Maasbracht",
+		"Identification": "NL-Maasbracht-port-Wachthaven",
+		"Version": "20191223" 
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

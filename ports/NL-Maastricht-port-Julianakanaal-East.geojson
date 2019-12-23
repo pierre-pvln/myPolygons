@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Maastricht-port-Julianakanaal-East"
+        "Name": "Julianakanaal oostzijde Maastricht",
+		"Identification": "NL-Maastricht-port-Julianakanaal-East",
+		"Version": "20191223" 		
       },
       "geometry": {
         "type": "Polygon",

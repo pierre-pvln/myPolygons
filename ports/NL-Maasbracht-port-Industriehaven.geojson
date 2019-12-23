@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Name": "Industriehaven Maasbracht",
+		"Identification": "NL-Maasbracht-port-Industriehaven",
+		"Version": "20191223" 
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

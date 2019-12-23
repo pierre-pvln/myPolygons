@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Maastricht-port-ENCI"
+	    "Name": "ENCI Maastricht",
+		"Identification": "NL-Maastricht-port-ENCI",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",

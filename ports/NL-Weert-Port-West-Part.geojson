@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Weert-port-West-Part"
+        "Name": "Haven Weert westelijk deel",
+		"Identification": "NL-Weert-port-West-Part",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",

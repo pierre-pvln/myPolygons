@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+	    "Name": "Berghaven Born",
+		"Identification": "NL-Born-port-Berghaven",
+		"Version": "20191223" 
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

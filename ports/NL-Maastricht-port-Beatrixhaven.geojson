@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Maastricht-port-Beatrixhaven"
+        "Name": "Beatrixhaven Maastricht"
+		"Identification": "NL-Maastricht-port-Beatrixhaven",
+		"Version": "20191223" 		
       },
       "geometry": {
         "type": "Polygon",

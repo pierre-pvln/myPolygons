@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "NL-Stein-port-Julianakanaal"
+	    "Name": "Haven Julianakanaal Stein",
+		"Identification": "NL-Stein-port-Julianakanaal",
+		"Version": "20191223" 
       },
       "geometry": {
         "type": "Polygon",
