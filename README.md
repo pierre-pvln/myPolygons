@@ -1,4 +1,4 @@
-# All in formation is as-is and without any guarantee!
+# All information is as-is and without any guarantee!
 
 ### Filename
 Filename should be the same as the identification: _CC-Location-Type-Typename.geojson_
