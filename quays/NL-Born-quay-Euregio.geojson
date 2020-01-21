@@ -6,6 +6,7 @@
       "properties": {
 	    "Name": "Kade Euregio Born",
 		"Identification": "NL-Born-quay-Euregio",
+		"Parent": "NL-Born-port-Gulyck-Gelderhaven",
 		"Version": "20191223" 
 	  },
       "geometry": {

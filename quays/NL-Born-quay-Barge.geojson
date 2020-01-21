@@ -6,6 +6,7 @@
       "properties": {
 	    "Name": "Kade Bargeterminal Born",
 		"Identification": "NL-Born-quay-Barge",
+		"Parent": "NL-Born-port-Gulyck-Gelderhaven",
 		"Version": "20191223" 	  
 	  },
       "geometry": {
