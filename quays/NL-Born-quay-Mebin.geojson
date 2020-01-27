@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kade Mebin Born",
+        "Identification": "NL-Born-quay-Mebin",
+        "Parent": "NL-Born-port-Gulyck-Gelderhaven",
+        "Version": 20200127
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.8127546310424805,
+              51.05913882935577
+            ],
+            [
+              5.813055038452148,
+              51.05905791009749
+            ],
+            [
+              5.813999176025391,
+              51.06059535182122
+            ],
+            [
+              5.813688039779663,
+              51.060696497513135
+            ],
+            [
+              5.8127546310424805,
+              51.05913882935577
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

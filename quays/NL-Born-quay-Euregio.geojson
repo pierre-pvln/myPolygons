@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-	    "Name": "Kade Euregio Born",
-		"Identification": "NL-Born-quay-Euregio",
-		"Parent": "NL-Born-port-Gulyck-Gelderhaven",
-		"Version": "20191223" 
-	  },
+        "Name": "Kade Euregio Born",
+        "Identification": "NL-Born-quay-Euregio",
+        "Parent": "NL-Born-port-Gulyck-Gelderhaven",
+        "Version": 20191223
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22,12 +22,12 @@
               51.056859549471355
             ],
             [
-              5.813999176025391,
-              51.06059535182122
+              5.813119411468506,
+              51.059010707131485
             ],
             [
-              5.813688039779663,
-              51.060696497513135
+              5.8127760887146,
+              51.05913208608963
             ],
             [
               5.811445713043212,
