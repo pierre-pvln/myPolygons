@@ -2,4 +2,5 @@
 set_git_user.cmd
 *.lnk
 /scripts
+/information
 

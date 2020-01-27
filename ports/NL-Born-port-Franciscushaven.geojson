@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-	    "Name": "Naam niet bekend Born",
-		"Identification": "NL-Born-port-unknown001",
-		"Version": "20191223" 	  
+	    "Name": "Franciscushaven Born",
+		"Identification": "NL-Born-port-Franciscushaven",
+		"Version": "20200127" 	  
 	  },
       "geometry": {
         "type": "Polygon",

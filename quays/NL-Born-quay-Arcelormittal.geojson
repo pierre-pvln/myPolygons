@@ -6,8 +6,8 @@
       "properties": {
   	    "Name": "Kade Arcelormittal Born",
 		"Identification": "NL-Born-quay-Arcelormittal",
-		"Parent": "NL-Born-port-unknown001",
-		"Version": "20200121" 	
+		"Parent": "NL-Born-port-Franciscushaven",
+		"Version": "20200127" 	
 	  },
       "geometry": {
         "type": "Polygon",
