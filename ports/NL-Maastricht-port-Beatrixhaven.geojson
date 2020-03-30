@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Beatrixhaven Maastricht"
+        "Name": "Beatrixhaven Maastricht",
 		"Identification": "NL-Maastricht-port-Beatrixhaven",
 		"Version": "20191223" 		
       },
