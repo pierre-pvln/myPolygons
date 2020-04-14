@@ -1,5 +1,10 @@
 {
-	"ports": {
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
 		"files": [
 
 		]
@@ -11,9 +16,14 @@
 			"NL-Roermond-lock-Lock.geojson"
 		]
 	},
-	"contours": {
+    "ports": {
 		"files": [
-
+ 
+		]
+	},
+    "quays": {
+		"files": [
+            
 		]
 	}
 }
