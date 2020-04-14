@@ -1,19 +1,35 @@
 {
-	"ports": {
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
 		"files": [
 
 		]
 	},
 	"locks": {
 		"files": [
-			"NL-Roermond-lock-Zone-North.geojson",
-			"NL-Roermond-lock-Zone-South.geojson",
-			"NL-Roermond-lock-Lock.geojson"
+
 		]
 	},
-	"contours": {
+    "ports": {
 		"files": [
+            "NL-Born-port-Franciscushaven.geojson",
+			"NL-Born-port-Gulyck-Gelderhaven.geojson"
 
+		]
+	},
+    "quays": {
+		"files": [
+			"NL-Born-quay-Arcelormittal.geojson",
+			"NL-Born-quay-Barge.geojson",
+			"NL-Born-quay-Covas.geojson",
+			"NL-Born-quay-Euregio.geojson",
+			"NL-Born-quay-Langen.geojson",
+			"NL-Born-quay-Mebin.geojson",
+			"NL-Born-quay-OHB.geojson"
 		]
 	}
 }
