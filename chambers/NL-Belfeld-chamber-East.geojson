@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluis Belfeld",
+		"Identification": "NL-Belfeld-chamber-East",
+		"Parent": "NL-Belfeld-lock-Lock",
+		"Version": "20200525"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1119818687438965,
+              51.320199685056785
+            ],
+            [
+              6.113762855529785,
+              51.32222125034568
+            ],
+            [
+              6.113505363464355,
+              51.32230506124506
+            ],
+            [
+              6.1116814613342285,
+              51.32031367286622
+            ],
+            [
+              6.1119818687438965,
+              51.320199685056785
+            ]
+		  ]
+        ]
+      }
+    }
+  ]
+}
