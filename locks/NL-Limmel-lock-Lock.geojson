@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Keersluis Limmel",
-		"Identification": "NL-Limmel-lock-Lock"
+		"Identification": "NL-Limmel-lock-Lock",
 		"Version": "20191212"
       },
       "geometry": {
