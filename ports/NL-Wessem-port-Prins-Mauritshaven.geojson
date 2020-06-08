@@ -6,7 +6,8 @@
       "properties": {
 	    "Name": "Prins Mauritshaven Wessem",
 		"Identification": "NL-Wessem-port-Prins-Maurits",
-		"Version": "20191223" 	  
+		"Type": "port", 
+		"Version": "20200608" 	 	  
 	  },
       "geometry": {
         "type": "Polygon",

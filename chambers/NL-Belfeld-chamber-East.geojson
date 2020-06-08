@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sluis Belfeld",
+        "Name": "Sluiskolk Oost Belfeld",
 		"Identification": "NL-Belfeld-chamber-East",
 		"Parent": "NL-Belfeld-lock-Lock",
 		"Version": "20200525"

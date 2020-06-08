@@ -6,8 +6,9 @@
             "properties": {
                 "Name": "ENCI Maastricht",
                 "Identification": "NL-Maastricht-port-ENCI",
-                "Version": "20191223"
-            },
+				"Type": "port", 
+				"Version": "20200608" 	
+		},
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [

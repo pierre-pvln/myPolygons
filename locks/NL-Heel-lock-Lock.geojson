@@ -6,7 +6,8 @@
       "properties": {
 	    "Name": "Sluis Heel",
 		"Identification": "NL-Heel-lock-Lock",
-		"Version": "20191212"
+		"Type": "lock", 
+		"Version": "20200608" 	
 	  },
       "geometry": {
         "type": "Polygon",

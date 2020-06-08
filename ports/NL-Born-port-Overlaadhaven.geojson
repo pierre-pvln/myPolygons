@@ -6,7 +6,8 @@
       "properties": {
         "Name": "Overlaadhaven Born",
 		"Identification": "NL-Born-port-Overlaadhaven",
-		"Version": "20191223" 	  
+		"Type": "port", 
+		"Version": "20200608" 		  
 	  },
       "geometry": {
         "type": "Polygon",

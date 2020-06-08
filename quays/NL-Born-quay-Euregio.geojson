@@ -7,7 +7,8 @@
         "Name": "Kade Euregio Born",
         "Identification": "NL-Born-quay-Euregio",
         "Parent": "NL-Born-port-Gulyck-Gelderhaven",
-        "Version": 20191223
+		"Type": "quay", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",

@@ -6,7 +6,8 @@
       "properties": {
 		"Name": "",
         "Identification": "NL-Born-lock-Zone-North",
-        "Version": "20191207"	  
+		"Type": "lock", 
+		"Version": "20200608" 		  
 	  },
       "geometry": {
         "type": "Polygon",

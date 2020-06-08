@@ -6,7 +6,8 @@
       "properties": {
         "Name": "",
 		"Identification": "NL-Belfeld-lock-Zone-South",
-		"Version": "20191212"
+		"Type": "lock", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",

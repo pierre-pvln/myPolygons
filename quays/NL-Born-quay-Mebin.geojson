@@ -7,7 +7,8 @@
         "Name": "Kade Mebin Born",
         "Identification": "NL-Born-quay-Mebin",
         "Parent": "NL-Born-port-Gulyck-Gelderhaven",
-        "Version": 20200127
+		"Type": "quay", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",

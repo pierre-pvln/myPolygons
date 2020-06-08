@@ -6,7 +6,8 @@
       "properties": {
         "Name": "",
 		"Identification": "NL-Sambeek-lock-Zone-East",
-		"Version": "20191223"       
+		"Type": "lock", 
+		"Version": "20200608" 	      
       },
       "geometry": {
         "type": "Polygon",

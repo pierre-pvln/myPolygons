@@ -6,7 +6,8 @@
       "properties": {
         "Name": "Haven Zevenellen",
         "Identification": "NL-Buggenum-port",
-        "Version": 20200512
+		"Type": "port", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",

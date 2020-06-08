@@ -6,7 +6,8 @@
       "properties": {
         "Name": "Sluis Belfeld",
 		"Identification": "NL-Belfeld-lock-Lock",
-		"Version": "20191212"
+		"Type": "lock", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",

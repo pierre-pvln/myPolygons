@@ -6,7 +6,8 @@
       "properties": {
         "Name": "",
 		"Identification": "BE-Klein-Ternaaien-lock-Zone-South",
-        "Version": "20191207"
+		"Type": "lock", 
+		"Version": "20200608" 	
       },
       "geometry": {
         "type": "Polygon",
