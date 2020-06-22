@@ -1,0 +1,36 @@
+{
+	"description": {
+		"setname": ["NL-Maasbracht-alle-havens.json"],
+		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Maasbracht"],
+		"remarks": ["Geen"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Maasbracht-port-Wachthaven.geojson",
+			"NL-Maasbracht-port-unknown002.geojson",
+			"NL-Maasbracht-port-unknown001.geojson",
+			"NL-Maasbracht-port-Industriehaven.geojson",
+			"NL-Maasbracht-port-Bunkerhaven.geojson"
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"description": {
+		"setname": ["NL-Maastricht-BSGW.json"],
+		"usage" :  ["Om de BSGW dataset t.b.v. havengelden te creeren voor de gemeente Maastricht"],
+		"remarks": ["Vooralsnog enkel de havens. Kades zijn niet meegenomen"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Maastricht-port-Beatrixhaven.geojson",
+			"NL-Maastricht-port-ENCI.geojson",
+			"NL-Maastricht-port-Julianakanaal-East.geojson",
+			"NL-Maastricht-port-Julianakanaal-West.geojson"		
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}
