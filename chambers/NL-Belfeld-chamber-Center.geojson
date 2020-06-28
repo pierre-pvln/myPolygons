@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sluiskolk midden Belfeld",
+        "Name": "Sluiskolk Midden Belfeld",
 		"Identification": "NL-Belfeld-chamber-Center",
 		"Parent": "NL-Belfeld-lock-Lock",
 		"Type": "chamber", 
