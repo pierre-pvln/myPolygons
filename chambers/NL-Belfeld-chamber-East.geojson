@@ -7,7 +7,8 @@
         "Name": "Sluiskolk Oost Belfeld",
 		"Identification": "NL-Belfeld-chamber-East",
 		"Parent": "NL-Belfeld-lock-Lock",
-		"Version": "20200525"
+		"Type": "chamber", 
+		"Version": "20200628"
       },
       "geometry": {
         "type": "Polygon",
