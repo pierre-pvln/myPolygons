@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Zuid Sambeek",
+		"Identification": "NL-Sambeek-chamber-South",
+		"Parent": "NL-Sambeek-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20200629"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+			[ 
+				[
+				  5.982731580734252,
+				  51.639734659465276
+				],
+				[
+				  5.982935428619384,
+				  51.63992442233008
+				],
+				[
+				  5.980961322784423,
+				  51.64061355447668
+				],
+				[
+				  5.980784296989441,
+				  51.64043045275406
+				],
+				[
+				  5.982731580734252,
+				  51.639734659465276
+				]
+			]
+		]
+      }
+    }
+  ]
+}

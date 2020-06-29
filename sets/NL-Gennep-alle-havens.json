@@ -1,0 +1,32 @@
+{
+	"description": {
+		"setname": ["NL-Gennep-alle-havens.json"],
+		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Gennep"],
+		"remarks": ["Geen"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Gennep-port-Paesplas.geojson"
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}

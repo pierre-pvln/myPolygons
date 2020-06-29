@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Midden Sambeek",
+		"Identification": "NL-Sambeek-chamber-Center",
+		"Parent": "NL-Sambeek-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20200629"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+			[ 
+			[
+              5.982994437217712,
+              51.63998434728032
+            ],
+            [
+              5.983150005340576,
+              51.640147475910304
+            ],
+            [
+              5.981175899505615,
+              51.640859908355125
+            ],
+            [
+              5.980982780456542,
+              51.64067680762725
+            ],
+            [
+              5.982994437217712,
+              51.63998434728032
+            ]
+			]
+		]
+      }
+    }
+  ]
+}

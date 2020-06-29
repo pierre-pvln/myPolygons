@@ -1,14 +1,14 @@
 {
 	"description": {
-		"setname": ["NL-Blefeld-sluizen.json"],
-		"usage" :  ["Om informatie over de bezetting van de sluizen in Beldfeld te creeren voor de gemeente Venlo"],
+		"setname": ["NL-Sambeek-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Beldfeld te creeren voor de gemeente Gennep"],
 		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
 	},
 	"chambers": {
 		"files": [
-			"NL-Belfeld-chamber-Center.geojson",
-			"NL-Belfeld-chamber-East.geojson",
-			"NL-Belfeld-chamber-West.geojson"
+			"NL-Sambeek-chamber-Center.geojson",
+			"NL-Sambeek-chamber-North.geojson",
+			"NL-Sambeek-chamber-South.geojson"
 
 		]
 	},
