@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	    "Name": "Ruhr Schleuse Duisburg",
+		"Identification": "DE-Duisburg-lock-Ruhr",
+		"Type": "lock", 
+		"Version": "20200701" 	
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.755186319351196,
+              51.44559565621989
+            ],
+            [
+              6.755229234695435,
+              51.44552210106129
+            ],
+            [
+              6.760282516479492,
+              51.44636463487475
+            ],
+            [
+              6.7602503299713135,
+              51.446458248783316
+            ],
+            [
+              6.755186319351196,
+              51.44559565621989
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

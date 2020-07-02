@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	    "Name": "Sudhafen Nord Duisburg",
+		"Identification": "DE-Duisburg-port-Sudhafen-Nord",
+		"Type": "port", 
+		"Version": "20200701" 	
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.747536659240723,
+              51.45339183113589
+            ],
+            [
+              6.747751235961914,
+              51.45315114582281
+            ],
+            [
+              6.748244762420654,
+              51.4529505737592
+            ],
+            [
+              6.75410270690918,
+              51.456961847601484
+            ],
+            [
+              6.753201484680176,
+              51.45744317677596
+            ],
+            [
+              6.747536659240723,
+              51.45339183113589
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

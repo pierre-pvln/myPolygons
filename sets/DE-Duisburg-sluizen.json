@@ -1,0 +1,34 @@
+{
+	"description": {
+		"setname": ["DE-Duisburg-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Duisburg te creeren voor de haven van Duisburg"],
+		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
+	},
+	"chambers": {
+		"files": [
+			"DE-Duisburg-lock-Ruhr.geojson",
+			"DE-Duisburg-lock-Rhein-Herne.geojson"
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}

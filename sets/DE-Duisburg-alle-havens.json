@@ -1,0 +1,50 @@
+{
+	"description": {
+		"setname": [""DE-Duisburg-alle-havens.json"],
+		"usage" :  ["Creeren van data voor haven Duisburg"],
+		"remarks": ["Vooralsnog enkel de havens. Kades zijn niet meegenomen"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"DE-Duisburg-port-Becken-A.geojson",
+			"DE-Duisburg-port-Becken-B.geojson",
+			"DE-Duisburg-port-Becken-C.geojson",
+			"DE-Duisburg-port-Bunkerhafen.geojson",
+			"DE-Duisburg-port-Eisenbahenhafen-Ost.geojson",
+			"DE-Duisburg-port-Eisenbahnhafen-West.geojson",
+			"DE-Duisburg-port-Hafenkanal.geojson",
+			"DE-Duisburg-port-Hafenmund.geojson",
+			"DE-Duisburg-port-Innenhafen.geojson",
+			"DE-Duisburg-port-Kultushafen.geojson",
+			"DE-Duisburg-port-Parallelhafen.geojson",
+			"DE-Duisburg-port-Rheinpreussenhafen.geojson",
+			"DE-Duisburg-port-Sudhafen-Nord.geojson",
+			"DE-Duisburg-port-Vinckekanal.geojson",
+			"DE-Duisburg-port-Werfthafen.geojson"	
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}
+
+
+
+
