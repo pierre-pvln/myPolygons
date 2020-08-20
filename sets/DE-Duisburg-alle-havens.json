@@ -1,6 +1,6 @@
 {
 	"description": {
-		"setname": [""DE-Duisburg-alle-havens.json"],
+		"setname": ["DE-Duisburg-alle-havens.json"],
 		"usage" :  ["Creeren van data voor haven Duisburg"],
 		"remarks": ["Vooralsnog enkel de havens. Kades zijn niet meegenomen"]
 	},
