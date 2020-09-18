@@ -1,0 +1,35 @@
+{
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+ 
+		]
+	},
+    "quays": {
+		"files": [
+            
+		]
+	},
+    "tracks": {
+		"files": [
+			"NL-track-Berg-Obbicht.geojson",
+			"NL-track-Berg-Obbicht-north.geojson",
+			"NL-track-Urmond-Berg.geojson"
+		]
+	},
+	
+}

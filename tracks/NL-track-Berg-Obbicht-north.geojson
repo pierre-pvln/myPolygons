@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Julianakanaal ten noorden van Brug Berg aan Maas - Brug Obbicht ",
+		"Identification": "NL-track-Berg-Obbicht-north",
+		"Type": "track", 
+		"Version": "20200918" 	
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.789730548858643,
+              51.024040323497985
+            ],
+            [
+              5.786855220794678,
+              51.0194646985836
+            ],
+            [
+              5.78801393508911,
+              51.01918123793849
+            ],
+            [
+              5.790674686431885,
+              51.0237433939906
+            ],
+            [
+              5.789730548858643,
+              51.024040323497985
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
