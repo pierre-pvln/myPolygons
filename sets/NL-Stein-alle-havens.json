@@ -1,0 +1,33 @@
+{
+	"description": {
+		"setname": ["NL-Stein-alle-havens.json"],
+		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Stein"],
+		"remarks": ["Geen"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Stein-port.geojson",
+			"NL-Stein-port-Julianakanaal.geojson",
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	}
+}
