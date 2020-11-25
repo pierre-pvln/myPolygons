@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["NL-Blefeld-sluizen.json"],
 		"usage" :  ["Om informatie over de bezetting van de sluizen in Beldfeld te creeren voor de gemeente Venlo"],
-		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
+		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"],
+		"version": ["20201125"]
 	},
 	"chambers": {
 		"files": [
@@ -28,6 +29,11 @@
 		]
 	},
     "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]

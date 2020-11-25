@@ -1,10 +1,16 @@
 {
+	"description": {
+		"setname": ["NL-Julianakanaal.json"],
+		"usage" :  ["Overzicht van de boten in de trajecten van het Julianankanaal"],
+		"remarks": ["Geen"],
+		"version": ["20201125"]
+	},
 	"chambers": {
 		"files": [
 
 		]
 	},
-    "contours": {
+	"contours": {
 		"files": [
 
 		]
@@ -14,17 +20,17 @@
 
 		]
 	},
-    "ports": {
+	"ports": {
 		"files": [
  
 		]
 	},
-    "quays": {
+	"quays": {
 		"files": [
-            
+
 		]
 	},
-    "tracks": {
+	"tracks": {
 		"files": [
 			"NL-track-Berg-Obbicht.geojson",
 			"NL-track-Berg-Obbicht-north.geojson",

@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["NL-Gennep-alle-havens.json"],
 		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Gennep"],
-		"remarks": ["Geen"]
+		"remarks": ["Geen"],
+		"version": ["20201125"]
 	},
 	"chambers": {
 		"files": [
@@ -25,6 +26,11 @@
 		]
 	},
     "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]

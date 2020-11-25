@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["NL-Maastricht-BSGW.json"],
 		"usage" :  ["Om de BSGW dataset t.b.v. havengelden te creeren voor de gemeente Maastricht"],
-		"remarks": ["Vooralsnog enkel de havens. Kades zijn niet meegenomen"]
+		"remarks": ["Vooralsnog enkel de havens. Kades zijn niet meegenomen"],
+		"version": ["20201125"]
 	},
 	"chambers": {
 		"files": [
@@ -28,6 +29,11 @@
 		]
 	},
     "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]

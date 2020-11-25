@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["NL-Sambeek-sluizen.json"],
 		"usage" :  ["Om informatie over de bezetting van de sluizen in Sambeek te creeren voor de gemeente Gennep"],
-		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
+		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"],
+		"version": ["20201125"]
 	},
 	"chambers": {
 		"files": [
@@ -12,7 +13,7 @@
 
 		]
 	},
-    "contours": {
+	"contours": {
 		"files": [
 
 		]
@@ -22,12 +23,17 @@
 
 		]
 	},
-    "ports": {
+	"ports": {
 		"files": [
 
 		]
 	},
-    "quays": {
+	"quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]

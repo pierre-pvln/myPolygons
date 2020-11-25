@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["NL-Born-alle-havens.json"],
 		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Sittard-Geleen"],
-		"remarks": ["Geen"]
+		"remarks": ["Geen"],
+		"version": ["20201125"]
 	},
 	"chambers": {
 		"files": [
@@ -29,6 +30,11 @@
 		]
 	},
     "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]

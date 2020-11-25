@@ -1,4 +1,10 @@
 {
+	"description": {
+		"setname": ["NL-roermond.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Roermond te creeren"],
+		"remarks": ["Geen"],
+		"version": ["20201125"]
+	},
 	"chambers": {
 		"files": [
 
@@ -24,6 +30,11 @@
     "quays": {
 		"files": [
             
+		]
+	},
+	"tracks": {
+		"files": [
+
 		]
 	}
 }

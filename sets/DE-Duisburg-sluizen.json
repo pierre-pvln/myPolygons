@@ -2,7 +2,8 @@
 	"description": {
 		"setname": ["DE-Duisburg-sluizen.json"],
 		"usage" :  ["Om informatie over de bezetting van de sluizen in Duisburg te creeren voor de haven van Duisburg"],
-		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"]
+		"remarks": ["Vooralsnog enkel de sluiskolken. Voorliggende of achterliggende zones zijn niet meegenomen"],
+		"version": "20201125"
 	},
 	"chambers": {
 		"files": [
@@ -27,6 +28,11 @@
 		]
 	},
     "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
 		"files": [
 
 		]
