@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk West Born",
+		"Identification": "NL-Born-chamber-West",
+		"Parent": "NL-Born-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20201125"
+      },
+      "geometry": {
+        "type": "Polygon",
+		"coordinates": [
+          [
+            [
+              5.796977877616882,
+              51.03527500835811
+            ],
+            [
+              5.797219276428223,
+              51.03522440777533
+            ],
+            [
+              5.797863006591797,
+              51.03647253935625
+            ],
+            [
+              5.797594785690308,
+              51.0365197652965
+            ],
+            [
+              5.796977877616882,
+              51.03527500835811
+            ]
+          ]
+        ]
+	  }
+    }
+  ]
+}

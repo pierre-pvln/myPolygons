@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Oost Born",
+		"Identification": "NL-Born-chamber-East",
+		"Parent": "NL-Born-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20201125"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.79928994178772,
+              51.036152076347314
+            ],
+            [
+              5.798614025115967,
+              51.03481960112379
+            ],
+            [
+              5.798887610435485,
+              51.034765626636414
+            ],
+            [
+              5.7995688915252686,
+              51.0360947301014
+            ],
+            [
+              5.79928994178772,
+              51.036152076347314
+            ]
+          ]
+        ]
+       }
+    }
+  ]
+}

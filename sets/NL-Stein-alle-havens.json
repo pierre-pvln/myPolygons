@@ -22,7 +22,7 @@
     "ports": {
 		"files": [
 			"NL-Stein-port.geojson",
-			"NL-Stein-port-Julianakanaal.geojson",
+			"NL-Stein-port-Julianakanaal.geojson"
 		]
 	},
     "quays": {

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Midden Born",
+		"Identification": "NL-Born-chamber-Center",
+		"Parent": "NL-Born-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20201125"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.798892974853516,
+              51.03622291572956
+            ],
+            [
+              5.7982492446899405,
+              51.034876948947776
+            ],
+            [
+              5.798474550247192,
+              51.0348263479303
+            ],
+            [
+              5.799139738082886,
+              51.036165569571324
+            ],
+            [
+              5.798892974853516,
+              51.03622291572956
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
