@@ -1,0 +1,62 @@
+{
+	"description": {
+		"setname": ["NL-Limburg-alle-havens.json"],
+		"usage" :  ["Overzicht van de boten in de Limburgse havens],
+		"remarks": ["Geen"],
+		"version": ["20210121"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+		"NL-Born-port-Berghaven.geojson",
+		"NL-Born-port-Franciscushaven.geojson",
+		"NL-Born-port-Gulyck-Gelderhaven.geojson",
+		"NL-Born-port-Overlaadhaven.geojson",
+		"NL-Born-port-unknown002.geojson",
+		"NL-Buggenum-port-Zevenellen.geojson",
+		"NL-Bunde-port.geojson",
+		"NL-Gennep-port-Paesplas.geojson",
+		"NL-Maasbracht-port-Bunkerhaven.geojson",
+		"NL-Maasbracht-port-Industriehaven.geojson",
+		"NL-Maasbracht-port-unknown001.geojson",
+		"NL-Maasbracht-port-unknown002.geojson",
+		"NL-Maasbracht-port-Wachthaven.geojson",
+		"NL-Maastricht-port-Beatrixhaven.geojson",
+		"NL-Maastricht-port-ENCI.geojson",
+		"NL-Maastricht-port-Julianakanaal-East.geojson",
+		"NL-Maastricht-port-Julianakanaal-West.geojson",
+		"NL-Roermond-port-Schippershaven.geojson",
+		"NL-Stein-port-Julianakanaal.geojson",
+		"NL-Stein-port.geojson",
+		"NL-Venlo-port-Industriehaven.geojson",
+		"NL-Wanssum-port.geojson",
+		"NL-Weert-port-East.geojson",
+		"NL-Weert-port-West.geojson",
+		"NL-Wessem-port-Prins-Mauritshaven.geojson"
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			
+		]
+	}
+}
