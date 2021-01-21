@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+				"Name": "",
+				"Identification": "NL-Maasbracht-lock-Zone-SouthExtended",
+				"Type": "lock", 
+				"Version": "20200608" 	
+			},
+            "geometry": {
+                "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.871012210845947,
+              51.134298864285476
+            ],
+            [
+              5.872042179107666,
+              51.13386799423307
+            ],
+            [
+              5.875566601753235,
+              51.13819670907568
+            ],
+            [
+              5.87394118309021,
+              51.138782367162236
+            ],
+            [
+              5.871012210845947,
+              51.134298864285476
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+	"description": {
+		"setname": ["NL-Born-Maasbracht-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Born en Belfeld te creeren"],
+		"remarks": ["Sluis zelf is niet opgenomen omdat de kolken wel zijn aangegeven"],
+		"version": ["20201125"]
+	},
+	"chambers": {
+		"files": [
+			"NL-Born-chamber-Center.geojson",
+			"NL-Born-chamber-East.geojson",
+			"NL-Born-chamber-West.geojson",
+			"NL-Maasbracht-chamber-Center.geojson",
+			"NL-Maasbracht-chamber-East.geojson",
+			"NL-Maasbracht-chamber-West.geojson"
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+			"NL-Born-lock-Zone-North.geojson",
+			"NL-Born-lock-Zone-South.geojson",
+			"NL-Maasbracht-lock-Zone-North.geojson",
+			"NL-Maasbracht-lock-Zone-South.geojson"
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+
+		]
+	}
+}

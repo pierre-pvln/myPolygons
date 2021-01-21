@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Midden Maasbracht",
+		"Identification": "NL-Maasbracht-chamber-Center",
+		"Parent": "NL-Maasbracht-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20201126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.877179950475693,
+              51.141071074642184
+            ],
+            [
+              5.87744414806366,
+              51.1409625318872
+            ],
+            [
+              5.87874636054039,
+              51.14231046335453
+            ],
+            [
+              5.878443270921707,
+              51.142422368504675
+            ],
+            [
+              5.877179950475693,
+              51.141071074642184
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

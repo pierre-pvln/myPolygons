@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sluiskolk Oost Maasbracht",
+		"Identification": "NL-Maasbracht-chamber-East",
+		"Parent": "NL-Maasbracht-lock-Lock",
+		"Type": "chamber", 
+		"Version": "20201126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.879085659980774,
+              51.142185095608504
+            ],
+            [
+              5.878782570362091,
+              51.14229700106256
+            ],
+            [
+              5.877513885498047,
+              51.140936447931296
+            ],
+            [
+              5.877803564071655,
+              51.140817807816894
+            ],
+            [
+              5.879085659980774,
+              51.142185095608504
+            ]
+          ]
+        ]
+       }
+    }
+  ]
+}

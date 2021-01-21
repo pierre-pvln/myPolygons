@@ -1,0 +1,43 @@
+{
+	"description": {
+		"setname": ["NL-Maasbracht-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Maasbracht te creeren"],
+		"remarks": ["Sluis zelf is niet opgenomen omdat de kolken wel zijn aangegeven"],
+		"version": ["20201128"]
+	},
+	"chambers": {
+		"files": [
+			"NL-Maasbracht-chamber-Center.geojson",
+			"NL-Maasbracht-chamber-East.geojson",
+			"NL-Maasbracht-chamber-West.geojson"
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+			"NL-Maasbracht-lock-Zone-North.geojson",
+			"NL-Maasbracht-lock-Zone-NorthExtended.geojson",
+			"NL-Maasbracht-lock-Zone-South.geojson",
+			"NL-Maasbracht-lock-Zone-SouthExtended.geojson"
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+
+		]
+	}
+}
