@@ -1,0 +1,39 @@
+{
+	"description": {
+		"setname": ["NL-Stein-RUD.json"],
+		"usage" :  ["Overzicht van de boten in de omgeving haven Stein"],
+		"remarks": ["Geen"],
+		"version": ["20210113"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Stein-port.geojson",
+			"NL-Stein-port-Julianakanaal.geojson"
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			"NL-track-Stein-Urmond.geojson"
+		]
+	}
+}
