@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "JSchippershaven Roermond",
+        "Name": "Schippershaven Roermond",
 		"Identification": "NL-Roermond-port-Schippershaven",
 		"Type": "port", 
-		"Version": "20200608" 		
+		"Version": "20210121" 		
       },
       "geometry": {
         "type": "Polygon",
