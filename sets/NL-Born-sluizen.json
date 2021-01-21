@@ -1,0 +1,43 @@
+{
+	"description": {
+		"setname": ["NL-Born-sluizen.json"],
+		"usage" :  ["Om informatie over de bezetting van de sluizen in Born te creeren"],
+		"remarks": ["Sluis zelf is niet opgenomen omdat de kolken wel zijn aangegeven"],
+		"version": ["20201209"]
+	},
+	"chambers": {
+		"files": [
+			"NL-Born-chamber-Center.geojson",
+			"NL-Born-chamber-East.geojson",
+			"NL-Born-chamber-West.geojson"
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+			"NL-Born-lock-Zone-North.geojson",
+			"NL-Born-lock-Zone-NorthExtended.geojson",
+			"NL-Born-lock-Zone-South.geojson",
+			"NL-Born-lock-Zone-SouthExtended.geojson"
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+
+		]
+	}
+}
