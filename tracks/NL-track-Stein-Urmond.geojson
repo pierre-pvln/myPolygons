@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Julianakanaal Brug Stein - Brug Urmond",
+		"Identification": "NL-track-Stein-Urmond",
+		"Type": "track", 
+		"Version": "20210113" 	
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.751385688781738,
+              50.9709677364145
+            ],
+            [
+              5.752758979797363,
+              50.97048129471694
+            ],
+            [
+              5.769109725952148,
+              50.990826421270036
+            ],
+            [
+              5.7680368423461905,
+              50.9911775868713
+            ],
+            [
+              5.751385688781738,
+              50.9709677364145
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
