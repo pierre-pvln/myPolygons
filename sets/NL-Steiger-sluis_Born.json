@@ -1,0 +1,39 @@
+{
+	"description": {
+		"setname": ["NL-Steiger-sluis-Born.json"],
+		"usage" :  ["Overzicht van de boten in de omgeving steiger ten zuiden van sluis Born"],
+		"remarks": ["Geen"],
+		"version": ["20210205"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+
+		]
+	},
+    "quays": {
+		"files": [
+			"NL-Born-quay-Lock-South.geojson"
+
+		]
+	},
+	"tracks": {
+		"files": [
+
+		]
+	}
+}
