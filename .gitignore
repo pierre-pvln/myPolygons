@@ -1,6 +1,7 @@
 #do not include scripts and scripts folder
 set_git_user.cmd
 *.lnk
+*.url
 /scripts
 /information
 
