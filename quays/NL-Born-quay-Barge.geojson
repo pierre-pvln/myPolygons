@@ -4,12 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-	    "Name": "Kade Bargeterminal Born",
-		"Identification": "NL-Born-quay-Barge",
-		"Parent": "NL-Born-port-Gulyck-Gelderhaven",
-		"Type": "quay", 
-		"Version": "20200608" 		  
-	  },
+        "Name": "Kade Bargeterminal Born",
+        "Identification": "NL-Born-quay-Barge",
+        "Parent": "NL-Born-port-Gulyck-Gelderhaven",
+        "Type": "quay",
+        "Version": 20210412
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
