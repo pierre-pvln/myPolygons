@@ -1,0 +1,42 @@
+{
+	"description": {
+		"setname": ["NL-Werkdok.json"],
+		"usage" :  ["Overzicht van de boten in de trajecten van het Julianankanaal bij Werkdok"],
+		"remarks": ["Geen"],
+		"version": ["20210527"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+	"contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+	"ports": {
+		"files": [
+ 
+		]
+	},
+	"quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			"NL-track-Berg-Werkdok.geojson",
+			"NL-track-Berg-Werkdok-north.geojson",
+			"NL-track-Berg-Werkdok-north-Extended.geojson",
+			"NL-track-Berg-Werkdok-south.geojson",
+			"NL-track-Berg-Werkdok-south-Extended.geojson"
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Julianakanaal werkdok bij Berg aan de Maas",
+		"Identification": "NL-track-Berg-Werkdok",
+		"Type": "track", 
+		"Version": "20210527" 		  
+    },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.766250491142272,
+              50.98728085050278
+            ],
+            [
+              5.765193700790405,
+              50.987574636657186
+            ],
+            [
+              5.7638901472091675,
+              50.98600100176874
+            ],
+            [
+              5.765022039413452,
+              50.985649797001436
+            ],
+            [
+              5.766250491142272,
+              50.98728085050278
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
