@@ -5,6 +5,7 @@
 { "type": "Feature",
   "properties": {
     "Name": "Julianakanaal C Werkdok",
+	"SpeedLimit": 4.0,
     "Identification": "C",
 	"Type": "track", 
 	"Version": "20210609" 	
