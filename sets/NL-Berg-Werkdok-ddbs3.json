@@ -1,0 +1,42 @@
+{
+	"description": {
+		"setname": ["NL-Werkdok-ddbs3.json"],
+		"usage" :  ["Overzicht van de boten in de trajecten van het Julianankanaal bij Werkdok"],
+		"remarks": ["Geen"],
+		"version": ["20210621"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+	"contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+	"ports": {
+		"files": [
+ 
+		]
+	},
+	"quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			"A1.geojson",
+			"A2.geojson",
+			"B1.geojson",
+			"B2.geojson",
+			"C.geojson"
+		]
+	}
+}
