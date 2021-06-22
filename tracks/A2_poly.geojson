@@ -3,6 +3,12 @@
   "features": [
     {
       "type": "Feature",
+	  "properties": {
+	    "Name": "Julianakanaal A2_poly",
+		"Identification": "A2_poly",
+		"Type": "track", 
+		"Version": "20210622"
+	  },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -119,8 +125,7 @@
             ]
           ]
         ]
-      },
-      "properties": {}
+      }
     }
   ]
 }
