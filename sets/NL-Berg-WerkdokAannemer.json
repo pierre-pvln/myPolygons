@@ -32,11 +32,11 @@
 	},
 	"tracks": {
 		"files": [
-			"A1.geojson",
-			"A2.geojson",
-			"B1.geojson",
-			"B2.geojson",
-			"C.geojson"
+			"A1_ls.geojson",
+			"A2_ls.geojson",
+			"B1_ls.geojson",
+			"B2_ls.geojson",
+			"C_ls.geojson"
 		]
 	}
 }
