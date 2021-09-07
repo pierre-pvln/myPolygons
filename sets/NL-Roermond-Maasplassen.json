@@ -1,0 +1,40 @@
+{
+	"description": {
+		"setname": ["NL-Roermond-Maaasplassen.json"],
+		"usage" :  ["Overzicht van de boten op de Maasplassen bij Roermond"],
+		"remarks": ["Geen"],
+		"version": ["20210907"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+			"NL-Roermond-contour-Gerelingsplas.geojson",
+			"NL-Roermond-contour-HatenboerNoorderplas.geojson",
+			"NL-Roermond-contour-Oolderplas.geojson"
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			
+		]
+	}
+}

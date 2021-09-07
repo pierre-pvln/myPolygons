@@ -1,0 +1,38 @@
+{
+	"description": {
+		"setname": ["NL-Roermond-Omgeving.json"],
+		"usage" :  ["Overzicht van de boten op de Maasplassen bij Roermond"],
+		"remarks": ["Geen"],
+		"version": ["20210907"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+			"NL-Roermond-contour-Omgeving.geojson"
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Omgeving Roermond",
+		"Identification": "NL-Roermond-contour-Omgeving",
+		"Type": "track", 
+		"Version": "20210907" 	
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.915451049804693,
+              51.15953813744124
+            ],
+            [
+              5.987892150878906,
+              51.159322820694264
+            ],
+            [
+              5.987892150878906,
+              51.22989283096072
+            ],
+            [
+              5.9168243408203125,
+              51.22967784273762
+            ],
+            [
+              5.915451049804693,
+              51.15953813744124
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
