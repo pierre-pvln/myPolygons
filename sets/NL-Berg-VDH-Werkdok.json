@@ -1,0 +1,38 @@
+{
+	"description": {
+		"setname": ["NL-Berg-Werkdok.json"],
+		"usage" :  ["Overzicht van de boten in de trajecten van het Julianankanaal bij VDH Werkdok"],
+		"remarks": ["Geen"],
+		"version": ["20220928"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+	"contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+	"ports": {
+		"files": [
+ 
+		]
+	},
+	"quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+			"NL-track-VDH-Berg.geojson",
+		]
+	}
+}

@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Julianakanaal Brug Berg aan Maas - Brug Obbicht",
+		"Identification": "NL-track-VDH-Berg",
+		"Type": "track", 
+		"Version": "20220928" 	
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.771684646606445,
+              51.00219743397762
+            ],
+            [
+              5.774259567260742,
+              51.001387240240724
+            ],
+            [
+              5.790996551513672,
+              51.01988313732093
+            ],
+            [
+              5.787134170532227,
+              51.0210979380648
+            ],
+            [
+              5.771684646606445,
+              51.00219743397762
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
