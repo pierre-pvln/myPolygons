@@ -1,0 +1,36 @@
+{
+	"description": {
+		"setname": ["NL-Born-ShipTracer.json"],
+		"usage" :  ["Overzicht van de boten in de omgeving haven Bron"],
+		"remarks": ["Geen"],
+		"version": ["20230220"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+			"NL-Born-contour-PortArea.geojson"
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+		]
+	},
+    "quays": {
+		"files": [
+
+		]
+	},
+	"tracks": {
+		"files": [
+		]
+	}
+}
