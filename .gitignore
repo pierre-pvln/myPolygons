@@ -1,7 +1,11 @@
 #do not include scripts and scripts folder
 set_git_user.cmd
+/scripts
+
 *.lnk
 *.url
-/scripts
 /information
+
+# Any history folders or subfolders
+**/history
 
