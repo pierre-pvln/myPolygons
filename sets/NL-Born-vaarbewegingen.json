@@ -1,0 +1,48 @@
+{
+	"description": {
+		"setname": ["NL-Born-vaarbewegingen.json"],
+		"usage" :  ["Overzicht van de boten in alle havens in de gemeente Sittard-Geleen"],
+		"remarks": ["Geen"],
+		"version": ["20240605"]
+	},
+	"chambers": {
+		"files": [
+
+		]
+	},
+    "contours": {
+		"files": [
+
+		]
+	},
+	"locks": {
+		"files": [
+
+		]
+	},
+    "ports": {
+		"files": [
+			"NL-Born-port-Franciscushaven.geojson",
+			"NL-Born-port-Gulyck-Gelderhaven.geojson",
+			"NL-Born-port-Berghaven.geojson",
+			"NL-Born-port-Overlaadhaven.geojson",
+			"NL-Born-port-unknown002.geojson"
+		]
+	},
+    "quays": {
+		"files": [
+			"NL-Born-quay-Arcelormittal.geojson",
+			"NL-Born-quay-Barge.geojson",
+			"NL-Born-quay-Covas.geojson",
+			"NL-Born-quay-Stevens.geojson",
+			"NL-Born-quay-Loswal.geojson",
+			"NL-Born-quay-Mebin.geojson",
+			"NL-Born-quay-OHB.geojson"		
+		]
+	},
+	"tracks": {
+		"files": [
+
+		]
+	}
+}
