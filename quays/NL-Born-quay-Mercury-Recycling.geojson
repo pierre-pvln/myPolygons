@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	    "Name": "Kade Mercury Recycling Born",
+		"Identification": "NL-Born-quay-Mercury-Recycling",
+		"Parent": "NL-Born-port-Franciscushaven",
+		"Type": "quay", 
+		"Version": "20250509" 	 	  
+	  },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.809160470962524,
+              51.055777189407884
+            ],
+            [
+              5.809112191200256,
+              51.05564231410695
+            ],
+            [
+              5.81001341342926,
+              51.055504066515766
+            ],
+            [
+              5.810050964355469,
+              51.05562545466669
+            ],
+            [
+              5.809160470962524,
+              51.055777189407884
+            ]          ]
+        ]
+      }
+    }
+  ]
+}
